@@ -1,0 +1,19 @@
+Enter number of students: 5
+Enter student name: Madeena
+Enter student mark: 95
+Enter student name: Sravani
+Enter student mark: 93
+Enter student name: swathi
+Enter student mark: 92
+Enter student name: manjula
+Enter student mark: 96
+Enter student name: aswini
+Enter student mark: 90
+
+Student Records
+************************
+Madeena : 95
+Sravani : 93
+swathi : 92
+manjula : 96
+aswini : 90
